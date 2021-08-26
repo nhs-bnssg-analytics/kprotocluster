@@ -1,4 +1,4 @@
-# Population Health Management to identify and characterise ongoing health need for high-risk individuals shielded from COVID-19: a cross-sectional cohort study
+# Population Health Management to identify and characterise ongoing health need for high-risk individuals shielded from COVID-19: Cluster Analysis
 
 Code and outputs generated for characterising the shielded population of COVID-19 through Population Health Management segmentation approaches.
 
