@@ -7,3 +7,9 @@ Individuals at ‘high risk’ of COVID-19 were identified and patient level dat
 Population segmentation used k-prototypes cluster analysis due to the flexibility to use mixed data types (both continuous and categorical).
 
 The published paper is available on [BMJ Open](https://bmjopen.bmj.com/content/10/9/e041370)
+
+A recording of a presentation on this research and approach is available on FutureNHS (need to sign up for an account)
+
+[Mini Huddle page](https://future.nhs.uk/DataAnalytics/view?objectID=19744528)
+
+[Direct link](https://future.nhs.uk/DataAnalytics/view?objectID=21325520)
